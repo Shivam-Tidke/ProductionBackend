@@ -32,10 +32,6 @@ connectDB()
 
 
 
-
-
-
-
 /*const app = express()
 
 (async ()=>{
